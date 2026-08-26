@@ -1,0 +1,6 @@
+interface:
+  display_name: "Android File Access"
+  short_description: "Repo-specific patterns and workflows for Android_File_Access"
+  default_prompt: "Use the Android_File_Access repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
